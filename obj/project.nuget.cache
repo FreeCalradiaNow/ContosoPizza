@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "n7QXVHZs4MOucwwKmylP3rMZN5HgbX/puKP4kV4ErqRekji0iUrid2QU0jkfTtDV16qJ8zNnIqWhLXgQlfb7mA==",
+  "success": false,
+  "projectFilePath": "F:\\TrainingGIT\\ContosoPizza\\ContosoPizza.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Der Dienstindex für die Quelle \"https://api.nuget.org/v3/index.json\" konnte nicht geladen werden.",
+      "libraryId": "Swashbuckle.AspNetCore"
+    }
+  ]
+}
